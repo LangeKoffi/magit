@@ -37,6 +37,7 @@
 ;;; Code:
 
 (require 'cl-lib)
+(require 'compat)
 (require 'dash)
 (require 'eieio)
 (require 'format-spec)

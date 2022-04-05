@@ -39,6 +39,7 @@
 (defconst magit--minimal-emacs "25.1")
 
 (require 'cl-lib)
+(require 'compat)
 (require 'dash)
 (require 'eieio)
 (require 'seq)
